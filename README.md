@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-Hi my name is **Mohammad Reihan Zakya Alawi** you can call me **Reihan** or **Zakya**.<br>
-
-I am a student who is very enthusiastic about the world of technology and is currently studying mobile application development.📱<br>
+Hello!! my name is **Mohammad Reihan Zakya Alawi**. I am a student who is very enthusiastic about the world of technology and is currently studying mobile application development.📱<br>
 
 I am committed to continuing to grow and contribute to creating innovative and useful technology solutions.✨<br>
 
@@ -11,7 +9,7 @@ If you are interested in getting to know me, please follow my [Linkedin](https:/
 <p align="left">
 <a href="https://github.com/ReihanZakya">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ReihanZakya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ReihanZakya&layout=compact&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ReihanZakya&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <!--
